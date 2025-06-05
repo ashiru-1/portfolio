@@ -18,7 +18,7 @@ const About = () => {
           />
           <div className="z-10">
             <p className="headtext">Hello, I'm David Ashiru</p>
-            <p className="subtext">
+            <p className="subtext font-semibold">
              A 300-level Mechanical Engineering student with a strong passion for cybersecurity and software development. I specialize in frontend web development using the best technologies, and I’m actively exploring how to build secure, efficient systems. I love working on projects that combine engineering, coding, and problem-solving.
             </p>
           </div>
